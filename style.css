@@ -74,6 +74,18 @@ p {
     border-radius: 10px;
 }
 
+#full-stack {
+    border-left: 5px solid;
+    border-image: linear-gradient(blue, rgb(244, 212, 212));
+    border-image-slice: 1;
+}
+
+#baby-web {
+    border-left: 5px solid;
+    border-image: linear-gradient(rgb(211, 222, 235), rgb(38, 163, 240));
+    border-image-slice: 1;
+}
+
 
 
 footer p {
